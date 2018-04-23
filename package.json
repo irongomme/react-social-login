@@ -1,6 +1,6 @@
 {
   "name": "react-social-login",
-  "version": "3.4.2",
+  "version": "3.4.2-custom-0.1",
   "description": "React Component for Login via Social Providers",
   "main": "dist/social-login.js",
   "files": [
@@ -42,7 +42,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepakaggarwal7/react-social-login.git"
+    "url": "git+https://github.com/irongomme/react-social-login.git"
   },
   "keywords": [
     "social",
