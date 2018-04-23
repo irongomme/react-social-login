@@ -127,7 +127,7 @@ const generateUser = (response) => {
 const oldLoad = (appId, cid, fn, err) => {
   const js = document.createElement('script')
 
-  js.src = 'https://apis.google.com/js/platform.js'
+  js.src = '/google-sdk.js'
   js.id = 'gapi-client'
 
   js.onload = () => {
